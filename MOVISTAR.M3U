@@ -311,13 +311,13 @@ https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=
 #EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" ",IBERALIA
 https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8|User-Agent=lookplay
 
-://blackghost.live/play/lookplay-330.php?name=canal_cocina&file=.m3u8|User-Agent=lookplay
+
 #EXTINF:0 tvg-id="Decasa.es" group-title="MOVISTAR OP1" ",De Casa
 https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=lookplay
 #EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" ",IBERALIA
 https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8
 
-tle="MOVISTAR OP1" user-agent="lookplay",Historia
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" user-agent="lookplay",Historia
 https://blackghost.live/play/lookplay-330.php?name=historia&file=.m3u8|User-Agent=lookplay
 #EXTINF:0 tvg-id="discov_rus" group-title="MOVISTAR OP1" user-agent="lookplay",Discovery Chanel
 https://blackghost.live/play/lookplay-330.php?name=discovery_channel&file=.m3u8
@@ -336,7 +336,7 @@ https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=
 #EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" user-agent="lookplay",IBERALIA
 https://blackghost.live/play/lookplay-330.php?name=iberalia&file=.m3u8|User-Agent=lookplay
 
-://blackghost.live/play/lookplay-330.php?name=canal_cocina&file=.m3u8|User-Agent=lookplay
+
 #EXTINF:0 tvg-id="Decasa.es" group-title="MOVISTAR OP1" user-agent="lookplay",De Casa
 https://blackghost.live/play/lookplay-330.php?name=decasa&file=.m3u8|User-Agent=lookplay
 #EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR OP1" user-agent="lookplay",IBERALIA
